@@ -152,7 +152,7 @@ public class FabricanteDAO {
 		 * System.out.println("os fabricantes foram removildo com sucesso"); }
 		 * catch (SQLException e) {
 		 * System.out.println("ocorreu um erro ao remover um dos fabricantes");
-		 * // TODO Auto-generated catch block e.printStackTrace(); }
+		 * // TODO Auto-generated catch block e.printStackTrace(); 
 		 */
 
 		/*
@@ -165,7 +165,7 @@ public class FabricanteDAO {
 		 * System.out.println("O fabricante foi editado com sucesso"); } catch
 		 * (SQLException e) {
 		 * System.out.println("ocorreu um erro ao tentar editar o fabricante");
-		 * // TODO Auto-generated catch block e.printStackTrace(); }
+		 * // 
 		 */
 
 		/*
